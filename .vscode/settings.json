@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Monokai++",
+    "highlight-matching-tag.highlightFromContent": true,
+    "highlight-matching-tag.styles": {
+        "opening": {
+          "left": {
+            "underline": "#FFFFFF"
+          },
+          "right": {
+            "surround": "#155FFA"
+          },
+          "name": {
+            "highlight": "rgba(150, 20, 70, 0.3)"
+          }
+        },
+        "closing": {
+          "full": {
+            "custom": {
+              "dark": {
+                "borderWidth": "0 0 3px 0",
+                "borderColor": "white",
+                "borderStyle": "solid",
+                "borderRadius": "4px",
+                "right": "10px"
+              },
+              "light": {
+                "borderWidth": "0 0 2px 0",
+                "borderColor": "brown",
+                "borderStyle": "solid",
+                "borderRadius": "4px",
+                "right": "10px"
+              }
+            }
+          }
+        }
+      }
+}
