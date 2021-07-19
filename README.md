@@ -1,7 +1,5 @@
 Airbnb clone made at [Le Reacteur](https://www.lereacteur.io/)
 
-check backend >> [backend](https://github.com/MirkoChiavaroli/Vinted-Backend)
-
 Stacks [Javascript] [ReactNative]
 
 Running the project
@@ -18,4 +16,4 @@ yarn
 
 yarn start
 
-[--](src/assets/img/Airbnb-Mobile.jpg)
+![--](assets/img/Airbnb-Mobile.jpg)
