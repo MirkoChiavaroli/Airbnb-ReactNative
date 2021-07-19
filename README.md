@@ -18,4 +18,4 @@ yarn
 
 yarn start
 
-![air](src/assets/img/Airbnb-Mobile.jpg)
+[--](src/assets/img/Airbnb-Mobile.jpg)
